@@ -1,0 +1,17 @@
+$ git init
+Create a repository
+
+$ git add <filename or .>
+To add files to a new commit
+
+$ git commit -m "<your commit message>"
+Commit the added files
+
+$ git log -p
+Shows all commits and the content of the files
+
+$ git push
+Uploads commits to an remote/online repository
+
+$ git pull
+Downloads commits from a remote/online repository
